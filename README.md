@@ -12,6 +12,6 @@
 
 1. Clone-lah repository dari github
 
-2. Buatlah branch dari main (gunakan nama Anda sebagai nama branch, example: john-doe)
+2. Buatlah branch dari main (gunakan nama Anda sebagai nama branch, example: latihan-sesi-14-john-doe)
 
 3. Push ke branch yang anda gunakan 
